@@ -158,7 +158,7 @@ Before starting, install the following:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/RareEvo-TechHub/Altrix.git
+git clone https://github.com/CodeStudio-Rare/Altrix.git
 cd Altrix
 ```
 
